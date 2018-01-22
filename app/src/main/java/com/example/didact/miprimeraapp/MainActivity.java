@@ -11,7 +11,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         int edad = 35;
-        string nombre = "luis";
+        string nombre = "luisito";
         boulean flag = true;
 
 
