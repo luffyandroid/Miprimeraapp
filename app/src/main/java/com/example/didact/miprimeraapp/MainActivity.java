@@ -12,6 +12,7 @@ public class MainActivity extends AppCompatActivity {
 
         int edad = 5;
         int edad2 = 56;
+        int prueba = 54;
         string nombre = "luisito";
         boulean flag = true;
 
